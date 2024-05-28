@@ -8,7 +8,7 @@ function Home() {
     <div>
       <img src={logo} alt="Logo" className="logo" />
       <h1>AUTO ECOLE DES BORDS DE MARNE</h1>
-      <p>gestion examen et planning</p>
+      <p>Gestion d'examen et de planning</p>
       <nav>
         <ul>
           <li><Link to="/add">Ajouter un Stagiaire</Link></li>
