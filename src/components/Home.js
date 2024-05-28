@@ -8,7 +8,7 @@ function Home() {
     <div>
       <img src={logo} alt="Logo" className="logo" />
       <h1>AUTO ECOLE DES BORDS DE MARNE</h1>
-      <p>Auto - Conduite accompagnée / BSR 2 Roues - 4 Roues / Formation 125 Cm3</p>
+      <p>gestion examen et planning</p>
       <nav>
         <ul>
           <li><Link to="/add">Ajouter un Stagiaire</Link></li>
